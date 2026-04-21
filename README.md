@@ -1,51 +1,55 @@
-# 🔐 AWS IAM & MFA Project
+# 🔐 AWS IAM Security Setup
 
-This project demonstrates how to secure an AWS account using IAM and Multi-Factor Authentication (MFA).
+🚀 Demonstrates secure AWS IAM configuration using real AWS Console
 
----
-
-## 🚀 Overview
-
-Configured AWS IAM users, permissions, and enabled MFA for better security.
+✔ Secure IAM users & roles
+✔ Administrator access configured
+✔ AWS best practices followed (MFA, no root access keys)
 
 ---
 
-## 🔐 IAM
+## 📸 Screenshots
 
-* Created IAM user
-* Assigned permissions (policies/groups)
-* Applied least privilege principle
+### IAM Dashboard
 
-📸 Screenshot: IAM user & permissions setup
+![IAM Dashboard](images/iam-dashboard.png)
+
+### IAM Users
+
+![IAM Users](images/iam-users.png)
+
+### User Permissions
+
+![User Permissions](images/iam-user-permissions.png)
+
+### MFA Verification
+
+![MFA Verification](images/iam-mfa-verification.png)
 
 ---
 
-## 🔑 MFA
+## ⚡ What I Did
 
-* Enabled MFA for account security
-* Configured virtual MFA device
-* Tested secure login
-
-📸 Screenshot: MFA setup & enabled status
+* Created IAM user (`cloud`)
+* Assigned **AdministratorAccess** policy
+* Added user to admin group
+* Enabled MFA (Multi-Factor Authentication)
+* Verified secure access setup
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Services
 
 * AWS IAM
-* AWS MFA
 * AWS Console
 
 ---
 
-## 📚 Learning
+## ✅ Result
 
-* AWS user & permission management
-* Importance of MFA in security
-* Basic cloud security practices
+* Secure AWS account setup
+* Proper role-based access control
+* Multi-layer security with MFA
+* Ready for production use
 
 ---
-
-## 👤 Author
-
-Abdullah Rana
