@@ -2,28 +2,24 @@
 
 🚀 Demonstrates secure AWS IAM configuration using real AWS Console
 
-✔ Secure IAM users & roles
-✔ Administrator access configured
-✔ AWS best practices followed (MFA, no root access keys)
+✔ Secure IAM users & roles  
+✔ Administrator access configured  
+✔ AWS best practices followed (MFA enabled, no root access keys)
 
 ---
 
 ## 📸 Screenshots
 
 ### IAM Dashboard
-
 ![IAM Dashboard](images/iam-dashboard.png)
 
 ### IAM Users
-
 ![IAM Users](images/iam-users.png)
 
 ### User Permissions
-
 ![User Permissions](images/iam-user-permissions.png)
 
 ### MFA Verification
-
 ![MFA Verification](images/iam-mfa-verification.png)
 
 ---
@@ -34,7 +30,7 @@
 * Assigned **AdministratorAccess** policy
 * Added user to admin group
 * Enabled MFA (Multi-Factor Authentication)
-* Verified secure access setup
+* Verified secure AWS access setup
 
 ---
 
@@ -50,6 +46,6 @@
 * Secure AWS account setup
 * Proper role-based access control
 * Multi-layer security with MFA
-* Ready for production use
+* Production-ready IAM configuration
 
 ---
