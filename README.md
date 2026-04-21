@@ -10,7 +10,7 @@
 
 ## 📸 Screenshots
 
-### IAM Dashboard
+### Console Dashboard
 ![IAM Dashboard](imagesiam-dashboard.png)
 
 ### IAM Users
