@@ -22,6 +22,8 @@
 ### MFA Verification
 ![MFA Verification](imagesiam-mfa-verification.png)
 ---
+### MFA Dashboard
+![MFA Dashboard](iam-mfa-dashboard.png)
 
 ## ⚡ What I Did
 
