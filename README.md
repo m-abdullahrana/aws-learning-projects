@@ -11,17 +11,16 @@
 ## 📸 Screenshots
 
 ### IAM Dashboard
-![IAM Dashboard](images/iam-dashboard.png)
+![IAM Dashboard](imagesiam-dashboard.png)
 
 ### IAM Users
-![IAM Users](images/iam-users.png)
+![IAM Users](imagesiam-users.png)
 
 ### User Permissions
-![User Permissions](images/iam-user-permissions.png)
+![User Permissions](imagesiam-user-permissions.png)
 
 ### MFA Verification
-![MFA Verification](images/iam-mfa-verification.png)
-
+![MFA Verification](imagesiam-mfa-verification.png)
 ---
 
 ## ⚡ What I Did
